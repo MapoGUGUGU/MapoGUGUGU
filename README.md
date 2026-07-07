@@ -11,3 +11,4 @@ A Computer Science student at BINUS University.
 ## Featured Projects
 - Restaurant Data Management System
 - Slang Words Documentation Program
+- eNVision eyewear website (front-end)
